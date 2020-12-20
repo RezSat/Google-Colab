@@ -62,4 +62,35 @@ It will ask you a password and give it "VNC password" value , which is 12345678 
 
 After opening Developer Tools, switch to the Console Tab , paste the javascript code and hit enter.
 
-# Done ! Thank You,
+
+## Setup Ethereum Miner on Google Colab:
+
+```
+sudo add-apt-repository ppa:ethereum/ethereum
+sudo apt update
+sudo apt install ethereum
+sudo apt-key adv --keyserver keyserver.ubuntu.com  --recv-keys 2A518C819BE37D2C2031944D1C52189C923F6CA9
+sudo apt update
+sudo apt install ethereum
+
+download the latest version and unzip with " tar -xvf filename" and make sure you are in root mode, use 'sudo su ' for long term root mode)
+https://github.com/ethereum-mining/ethminer/releases
+
+at last inside the folder on ethminer (where ever it extracts) type the below command,
+./ethminer -G -P stratum1+tcp://YOUR_ETHEREUM_ADDRESS@us1.ethpool.org:3333
+
+
+```
+
+# Done !
+
+
+Donations:
+```
+Ethereum : 0xdDa3f78891ddBA5F3cf8476716df8e0fa328418d
+Paypal : paypal.me/cyberrex599
+Patreon : patreon.com/yehanwasura
+
+```
+
+# Thank You,
