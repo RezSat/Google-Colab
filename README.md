@@ -83,14 +83,3 @@ at last inside the folder on ethminer (where ever it extracts) type the below co
 ```
 
 # Done !
-
-
-Donations:
-```
-Ethereum : 0xdDa3f78891ddBA5F3cf8476716df8e0fa328418d
-Paypal : paypal.me/cyberrex599
-Patreon : patreon.com/yehanwasura
-
-```
-
-# Thank You,
